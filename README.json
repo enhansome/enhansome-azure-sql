@@ -548,7 +548,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T17:22:37Z",
+            "last_commit": "2026-08-17T18:49:46Z",
             "owner": "microsoft",
             "repo": "go-sqlcmd",
             "stars": 578
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:56:12.939Z",
+    "last_updated": "2026-08-18T14:00:24.225Z",
     "original_repository": "Azure-Samples/awesome-azure-sql",
     "original_repository_sha": "0241515c529ae694e066dd03321bd92593faa4e6",
     "enhanced_repository": "enhansome/enhansome-azure-sql",
