@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486267692,
             "language": "Jupyter Notebook",
             "last_commit": "2022-12-20T20:33:41Z",
             "owner": "David-Seis",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 659887357,
             "language": "TSQL",
             "last_commit": "2026-06-30T02:32:57Z",
             "owner": "AzureSQLDB",
@@ -35,7 +37,7 @@
       "title": "Labs & Workshops"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206863373,
             "language": null,
             "last_commit": "2025-07-30T21:08:37Z",
             "owner": "Azure-Samples",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452043569,
             "language": "TypeScript",
             "last_commit": "2025-05-11T00:23:49Z",
             "owner": "Azure-Samples",
@@ -69,476 +73,513 @@
       "title": "Best Practices"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Azure SQL DB Samples and Best Practices",
+              "description": "Samples and Best practices to use Azure SQL DB to build modern, mission critical applications, with ease and confidence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206863373,
+                "language": null,
+                "last_commit": "2025-07-30T21:08:37Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-samples",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure SQL Hyperscale Autoscaler",
+              "description": "How to create a serverless solution to automatically scale Azure SQL Hyperscale, based on detected workload.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234637572,
+                "language": "C#",
+                "last_commit": "2023-10-23T18:36:54Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-hyperscale-autoscaler",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure SQL Database Hyperscale Named Replicas OLTP Scale-Out Samples",
+              "description": "Sample of a massively scalable OLTP backed taking advantage of database secondary replicas to offload read-only workload.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 348844498,
+                "language": "C#",
+                "last_commit": "2023-10-23T18:39:50Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-named-replica-oltp-scaleout",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dynamic Schema Management With Azure SQL",
+              "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 328291824,
+                "language": "C#",
+                "last_commit": "2025-07-29T22:00:15Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-dynamic-schema",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamic Schema Management With Azure SQL and Entity Framework",
+              "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL via Entity Framework",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 765327245,
+                "language": "C#",
+                "last_commit": "2025-08-25T21:14:51Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-dynamic-schema-ef",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dynamic Schema"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Build serverless, full stack applications in Azure",
+              "description": "Full stack solution using Vue.js, Azure Static Web Apps, Azure Function, Azure SQL Database and a microservice architecture to monitor in real-time public transportation data, create a geofence and send notification when geofence is activated.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348492169,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-02-23T01:54:06Z",
+                "owner": "Azure-Samples",
+                "repo": "serverless-full-stack-apps-azure-sql",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "To-Do List sample deployment with AZ Developer Tool (AZD)",
+              "description": "A complete sample To Do application that demonstrates how to build an Azure solution using C#, Azure SQL for storage, and Azure Monitor for monitoring and logging, that uses AZD for completely automated deployment.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452043569,
+                "language": "TypeScript",
+                "last_commit": "2025-05-11T00:23:49Z",
+                "owner": "Azure-Samples",
+                "repo": "todo-csharp-sql",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Prisma",
+              "description": "Full-stack end-to-end implementation - both with REST and GraphQL support - with Azure SQL and Prisma.io of the well-known To-do list sample.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 393453553,
+                "language": "HTML",
+                "last_commit": "2025-10-16T16:11:13Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-prisma",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":tv: Jamstack/Fullstack solution from zero to hero",
+              "description": "Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 436419161,
+                "language": "C#",
+                "last_commit": "2024-01-16T21:04:45Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-fullstack-serverless-kickstart",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TodoMVC Sample App Full Stack Implementation",
+              "description": "Full-Stack implementation of the famous ToDoMVC: Vue.js, .NET Core REST API, Azure SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 284796647,
+                "language": "HTML",
+                "last_commit": "2023-10-26T15:15:52Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-todo-mvc",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure SQL Database Developer Workshop",
+              "description": "A collection of full Stack workshop that exposes developers to local development, CICD, REST, GraphQL and cloud services.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 659887357,
+                "language": "TSQL",
+                "last_commit": "2026-06-30T02:32:57Z",
+                "owner": "AzureSQLDB",
+                "repo": "azure-sql-db-developers-workshop",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Directus",
+              "description": "Full Stack TodoMVC Sample app, with REST and GraphQL support, using Directus, Azure Web Apps, Vue.Js and Azure SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 386316429,
+                "language": "HTML",
+                "last_commit": "2023-10-26T15:15:43Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-rest-graphql-directus",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Full Stack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Prisma",
+              "description": "Full-stack end-to-end implementation - both with REST and GraphQL support - with Azure SQL and Prisma.io of the well-known To-do list sample.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 393453553,
+                "language": "HTML",
+                "last_commit": "2025-10-16T16:11:13Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-prisma",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure SQL Database Developer Workshop",
+              "description": "A collection of full Stack workshop that exposes developers to local development, CICD, REST, GraphQL and cloud services.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 659887357,
+                "language": "TSQL",
+                "last_commit": "2026-06-30T02:32:57Z",
+                "owner": "AzureSQLDB",
+                "repo": "azure-sql-db-developers-workshop",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure SQL & GraphQL Samples",
+              "description": "Samples on how to create a GraphQL solution using Azure SQL using .NET, Python or Node.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 311738477,
+                "language": "JavaScript",
+                "last_commit": "2023-10-23T18:40:00Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-graphql",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Directus",
+              "description": "Full Stack TodoMVC Sample app, with REST and GraphQL support, using Directus, Azure Web Apps, Vue.Js and Azure SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 386316429,
+                "language": "HTML",
+                "last_commit": "2023-10-26T15:15:43Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-rest-graphql-directus",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GraphQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Build serverless, full stack applications in Azure",
+              "description": "Full stack solution using Vue.js, Azure Static Web Apps, Azure Function, Azure SQL Database and a microservice architecture to monitor in real-time public transportation data, create a geofence and send notification when geofence is activated.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348492169,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-02-23T01:54:06Z",
+                "owner": "Azure-Samples",
+                "repo": "serverless-full-stack-apps-azure-sql",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Creating a REST API with Python and Azure SQL",
+              "description": "Create a REST API using Azure SQL, Python and Flask.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 226973467,
+                "language": "Python",
+                "last_commit": "2023-09-12T23:22:14Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-python-rest-api",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Prisma",
+              "description": "Full-stack end-to-end implementation - both with REST and GraphQL support - with Azure SQL and Prisma.io of the well-known To-do list sample.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 393453553,
+                "language": "HTML",
+                "last_commit": "2025-10-16T16:11:13Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-prisma",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Creating a REST API with .NET Core and Azure SQL",
+              "description": "Create a REST API using Azure SQL, Dapper and .NET.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228347469,
+                "language": "C#",
+                "last_commit": "2026-06-04T15:52:22Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-dotnet-rest-api",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Create REST API in Python with Django, using the Django REST Framework and Azure SQL",
+              "description": "This sample uses the Django web framework and Django REST framework package to easily implement REST APIs. mssql-django backend used to establish database connectivity with Azure SQL DB and Django.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 450480630,
+                "language": "Python",
+                "last_commit": "2024-08-06T19:07:53Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-django",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Serverless REST API with Azure Functions, Node and Azure SQL",
+              "description": "Create a serverless REST API using Azure Functions, Node and Azure SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285681704,
+                "language": "TSQL",
+                "last_commit": "2024-08-06T19:49:56Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-node-rest-api",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TodoMVC Sample App Full Stack Implementation",
+              "description": "Full-Stack implementation of the famous ToDoMVC: Vue.js, .NET Core REST API, Azure SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 284796647,
+                "language": "HTML",
+                "last_commit": "2023-10-26T15:15:52Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-todo-mvc",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TodoMVC Backend Implementation with Azure Functions, Node and Azure SQL",
+              "description": "Create a REST API using Azure SQL, Azure Functions and Node.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295611923,
+                "language": "JavaScript",
+                "last_commit": "2024-08-06T19:51:42Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-todo-backend-func-node",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure SQL Database Developer Workshop",
+              "description": "A collection of full Stack workshop that exposes developers to local development, CICD, REST, GraphQL and cloud services.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 659887357,
+                "language": "TSQL",
+                "last_commit": "2026-06-30T02:32:57Z",
+                "owner": "AzureSQLDB",
+                "repo": "azure-sql-db-developers-workshop",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure SQL Database Hyperscale Named Replicas OLTP Scale-Out Samples",
+              "description": "Sample of a massively scalable OLTP backed taking advantage of database secondary replicas to offload read-only workload.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 348844498,
+                "language": "C#",
+                "last_commit": "2023-10-23T18:39:50Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-named-replica-oltp-scaleout",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TodoMVC Backend Implementation with Azure WebApps, .Net Core and Azure SQL",
+              "description": "Implementation of the Todo Backend API using ASP.NET Core, JSON, Dapper and Azure SQL.s",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306166752,
+                "language": "C#",
+                "last_commit": "2026-06-13T17:04:16Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-todo-backend-dotnet",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Directus",
+              "description": "Full Stack TodoMVC Sample app, with REST and GraphQL support, using Directus, Azure Web Apps, Vue.Js and Azure SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 386316429,
+                "language": "HTML",
+                "last_commit": "2023-10-26T15:15:43Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-rest-graphql-directus",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamic Schema Management With Azure SQL",
+              "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 328291824,
+                "language": "C#",
+                "last_commit": "2025-07-29T22:00:15Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-dynamic-schema",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Creating API to securely access data using Azure SQL Row Level Security",
+              "description": "Using the Row Level Security feature of Azure SQL to create secure REST API with Python, Flask and JWT.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 249258971,
+                "language": "TSQL",
+                "last_commit": "2023-09-12T23:26:02Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-secure-data-access-api",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dynamic Schema Management With Azure SQL and Entity Framework",
+              "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL via Entity Framework",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 765327245,
+                "language": "C#",
+                "last_commit": "2025-08-25T21:14:51Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-dynamic-schema-ef",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "REST"
+        }
+      ],
       "title": "Code Samples"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Azure SQL DB Samples and Best Practices",
-          "description": "Samples and Best practices to use Azure SQL DB to build modern, mission critical applications, with ease and confidence.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-30T21:08:37Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-samples",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure SQL Hyperscale Autoscaler",
-          "description": "How to create a serverless solution to automatically scale Azure SQL Hyperscale, based on detected workload.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2023-10-23T18:36:54Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-hyperscale-autoscaler",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure SQL Database Hyperscale Named Replicas OLTP Scale-Out Samples",
-          "description": "Sample of a massively scalable OLTP backed taking advantage of database secondary replicas to offload read-only workload.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2023-10-23T18:39:50Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-named-replica-oltp-scaleout",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Generic"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dynamic Schema Management With Azure SQL",
-          "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2025-07-29T22:00:15Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-dynamic-schema",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dynamic Schema Management With Azure SQL and Entity Framework",
-          "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL via Entity Framework",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2025-08-25T21:14:51Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-dynamic-schema-ef",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Dynamic Schema"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Build serverless, full stack applications in Azure",
-          "description": "Full stack solution using Vue.js, Azure Static Web Apps, Azure Function, Azure SQL Database and a microservice architecture to monitor in real-time public transportation data, create a geofence and send notification when geofence is activated.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-02-23T01:54:06Z",
-            "owner": "Azure-Samples",
-            "repo": "serverless-full-stack-apps-azure-sql",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "To-Do List sample deployment with AZ Developer Tool (AZD)",
-          "description": "A complete sample To Do application that demonstrates how to build an Azure solution using C#, Azure SQL for storage, and Azure Monitor for monitoring and logging, that uses AZD for completely automated deployment.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-11T00:23:49Z",
-            "owner": "Azure-Samples",
-            "repo": "todo-csharp-sql",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Prisma",
-          "description": "Full-stack end-to-end implementation - both with REST and GraphQL support - with Azure SQL and Prisma.io of the well-known To-do list sample.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2025-10-16T16:11:13Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-prisma",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":tv: Jamstack/Fullstack solution from zero to hero",
-          "description": "Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2024-01-16T21:04:45Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-fullstack-serverless-kickstart",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TodoMVC Sample App Full Stack Implementation",
-          "description": "Full-Stack implementation of the famous ToDoMVC: Vue.js, .NET Core REST API, Azure SQL.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2023-10-26T15:15:52Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-todo-mvc",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure SQL Database Developer Workshop",
-          "description": "A collection of full Stack workshop that exposes developers to local development, CICD, REST, GraphQL and cloud services.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TSQL",
-            "last_commit": "2026-06-30T02:32:57Z",
-            "owner": "AzureSQLDB",
-            "repo": "azure-sql-db-developers-workshop",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Directus",
-          "description": "Full Stack TodoMVC Sample app, with REST and GraphQL support, using Directus, Azure Web Apps, Vue.Js and Azure SQL.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2023-10-26T15:15:43Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-rest-graphql-directus",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Full Stack"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Prisma",
-          "description": "Full-stack end-to-end implementation - both with REST and GraphQL support - with Azure SQL and Prisma.io of the well-known To-do list sample.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2025-10-16T16:11:13Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-prisma",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure SQL Database Developer Workshop",
-          "description": "A collection of full Stack workshop that exposes developers to local development, CICD, REST, GraphQL and cloud services.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TSQL",
-            "last_commit": "2026-06-30T02:32:57Z",
-            "owner": "AzureSQLDB",
-            "repo": "azure-sql-db-developers-workshop",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure SQL & GraphQL Samples",
-          "description": "Samples on how to create a GraphQL solution using Azure SQL using .NET, Python or Node.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2023-10-23T18:40:00Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-graphql",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Directus",
-          "description": "Full Stack TodoMVC Sample app, with REST and GraphQL support, using Directus, Azure Web Apps, Vue.Js and Azure SQL.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2023-10-26T15:15:43Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-rest-graphql-directus",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "GraphQL"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Build serverless, full stack applications in Azure",
-          "description": "Full stack solution using Vue.js, Azure Static Web Apps, Azure Function, Azure SQL Database and a microservice architecture to monitor in real-time public transportation data, create a geofence and send notification when geofence is activated.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-02-23T01:54:06Z",
-            "owner": "Azure-Samples",
-            "repo": "serverless-full-stack-apps-azure-sql",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Creating a REST API with Python and Azure SQL",
-          "description": "Create a REST API using Azure SQL, Python and Flask.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-09-12T23:22:14Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-python-rest-api",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Prisma",
-          "description": "Full-stack end-to-end implementation - both with REST and GraphQL support - with Azure SQL and Prisma.io of the well-known To-do list sample.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2025-10-16T16:11:13Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-prisma",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Creating a REST API with .NET Core and Azure SQL",
-          "description": "Create a REST API using Azure SQL, Dapper and .NET.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-04T15:52:22Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-dotnet-rest-api",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Create REST API in Python with Django, using the Django REST Framework and Azure SQL",
-          "description": "This sample uses the Django web framework and Django REST framework package to easily implement REST APIs. mssql-django backend used to establish database connectivity with Azure SQL DB and Django.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-06T19:07:53Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-django",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Serverless REST API with Azure Functions, Node and Azure SQL",
-          "description": "Create a serverless REST API using Azure Functions, Node and Azure SQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TSQL",
-            "last_commit": "2024-08-06T19:49:56Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-node-rest-api",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TodoMVC Sample App Full Stack Implementation",
-          "description": "Full-Stack implementation of the famous ToDoMVC: Vue.js, .NET Core REST API, Azure SQL.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2023-10-26T15:15:52Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-todo-mvc",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TodoMVC Backend Implementation with Azure Functions, Node and Azure SQL",
-          "description": "Create a REST API using Azure SQL, Azure Functions and Node.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-08-06T19:51:42Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-todo-backend-func-node",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure SQL Database Developer Workshop",
-          "description": "A collection of full Stack workshop that exposes developers to local development, CICD, REST, GraphQL and cloud services.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TSQL",
-            "last_commit": "2026-06-30T02:32:57Z",
-            "owner": "AzureSQLDB",
-            "repo": "azure-sql-db-developers-workshop",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure SQL Database Hyperscale Named Replicas OLTP Scale-Out Samples",
-          "description": "Sample of a massively scalable OLTP backed taking advantage of database secondary replicas to offload read-only workload.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2023-10-23T18:39:50Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-named-replica-oltp-scaleout",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TodoMVC Backend Implementation with Azure WebApps, .Net Core and Azure SQL",
-          "description": "Implementation of the Todo Backend API using ASP.NET Core, JSON, Dapper and Azure SQL.s",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-13T17:04:16Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-todo-backend-dotnet",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "REST & GraphQL TodoMVC Sample App Full Stack Implementation with Directus",
-          "description": "Full Stack TodoMVC Sample app, with REST and GraphQL support, using Directus, Azure Web Apps, Vue.Js and Azure SQL.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HTML",
-            "last_commit": "2023-10-26T15:15:43Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-rest-graphql-directus",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dynamic Schema Management With Azure SQL",
-          "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2025-07-29T22:00:15Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-dynamic-schema",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Creating API to securely access data using Azure SQL Row Level Security",
-          "description": "Using the Row Level Security feature of Azure SQL to create secure REST API with Python, Flask and JWT.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TSQL",
-            "last_commit": "2023-09-12T23:26:02Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-secure-data-access-api",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dynamic Schema Management With Azure SQL and Entity Framework",
-          "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL via Entity Framework",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2025-08-25T21:14:51Z",
-            "owner": "Azure-Samples",
-            "repo": "azure-sql-db-dynamic-schema-ef",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "REST"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -547,6 +588,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376924587,
             "language": "Go",
             "last_commit": "2026-08-17T18:49:46Z",
             "owner": "microsoft",
@@ -561,6 +603,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 201573760,
             "language": "C#",
             "last_commit": "2024-01-16T19:38:17Z",
             "owner": "Azure-Samples",
@@ -575,6 +618,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198336465,
             "language": "Shell",
             "last_commit": "2022-08-01T16:23:38Z",
             "owner": "denzilribeiro",
@@ -584,21 +628,12 @@
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Blogs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:00:24.225Z",
+    "last_updated": "2026-08-19T12:19:23.969Z",
     "original_repository": "Azure-Samples/awesome-azure-sql",
+    "original_repository_id": 309174600,
     "original_repository_sha": "0241515c529ae694e066dd03321bd92593faa4e6",
     "enhanced_repository": "enhansome/enhansome-azure-sql",
     "enhanced_repository_description": null,
