@@ -76,6 +76,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": ":robot: Build a Session Recommender with Azure SQL database and OpenAI",
+          "description": "An end-to-end sample to show how to do vector similarity search on your own data in Azure SQL",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 694432089,
+            "language": "Bicep",
+            "last_commit": "2024-03-18T01:12:31Z",
+            "owner": "Azure-Samples",
+            "repo": "azure-sql-db-session-recommender",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":robot: Build a Session Recommender with Azure SQL database and OpenAI",
+          "description": "An end-to-end sample to show how to do vector similarity search on your own data in Azure SQL",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 694432089,
+            "language": "Bicep",
+            "last_commit": "2024-03-18T01:12:31Z",
+            "owner": "Azure-Samples",
+            "repo": "azure-sql-db-session-recommender",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Vectors"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -126,6 +168,94 @@
           "description": null,
           "node_type": "group",
           "title": "Generic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":robot: Build a Session Recommender with Azure SQL database and OpenAI",
+              "description": "An end-to-end sample to show how to do vector similarity search on your own data in Azure SQL",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 694432089,
+                "language": "Bicep",
+                "last_commit": "2024-03-18T01:12:31Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-session-recommender",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Azure SQL Change Stream with Debezium",
+              "description": "Set up a change stream from Azure SQL using the open source tool Debezium.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 200424302,
+                "language": "C#",
+                "last_commit": "2024-07-22T12:58:11Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-change-stream-debezium",
+                "stars": 105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Change Stream"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Azure SQL DB Import Data Samples",
+              "description": "Samples on how to import data (JSON, CSV, Flat-Files, etc) into Azure SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326835117,
+                "language": "TSQL",
+                "last_commit": "2022-10-06T05:07:47Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-import-data",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Loading"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Azure SQL Database CI/CD Pipeline with GitHub Actions",
+              "description": "A sample on how to deploy Azure SQL using the open source DbUp and running test using NUnit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 304139373,
+                "language": "TSQL",
+                "last_commit": "2025-03-11T23:20:31Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-ci-cd",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DevOps"
         },
         {
           "children": [
@@ -342,6 +472,28 @@
           "description": null,
           "node_type": "group",
           "title": "GraphQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":tv: Jamstack/Fullstack solution from zero to hero",
+              "description": "Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 436419161,
+                "language": "C#",
+                "last_commit": "2024-01-16T21:04:45Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-fullstack-serverless-kickstart",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Jamstack"
         },
         {
           "children": [
@@ -574,6 +726,50 @@
           "description": null,
           "node_type": "group",
           "title": "REST"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ScriptDOM Samples",
+              "description": "Samples on how to use the ScriptDOM parser to parse T-SQL statements.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79528586,
+                "language": "C#",
+                "last_commit": "2023-04-29T15:21:40Z",
+                "owner": "arvindsh",
+                "repo": "SQLScriptDomSamples",
+                "stars": 67
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ScriptDOM"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":robot: Build a Session Recommender with Azure SQL database and OpenAI",
+              "description": "An end-to-end sample to show how to do vector similarity search on your own data in Azure SQL",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 694432089,
+                "language": "Bicep",
+                "last_commit": "2024-03-18T01:12:31Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-sql-db-session-recommender",
+                "stars": 51
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vectors"
         }
       ],
       "title": "Code Samples"
@@ -625,13 +821,84 @@
             "repo": "sqldbmonitoring",
             "stars": 28
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dotmim.Sync",
+              "description": "A brand new database synchronization framework, multi platform, multi databases, developed on top of .Net Standard 2.0.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76020516,
+                "language": "C#",
+                "last_commit": "2025-08-28T13:17:57Z",
+                "owner": "Mimetis",
+                "repo": "Dotmim.Sync",
+                "stars": 978
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sync"
         }
       ],
       "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dapper",
+              "description": "A high-performance micro object mapper for .Net",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1613345,
+                "language": "C#",
+                "last_commit": "2026-08-20T14:20:52Z",
+                "owner": "DapperLib",
+                "repo": "Dapper",
+                "stars": 18370
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":closed_lock_with_key: Security Workshop",
+          "description": "Workshop: SQL Server Security Ground to Cloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 486267692,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-20T20:33:41Z",
+            "owner": "David-Seis",
+            "repo": "SecureYourAzureData",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:48:41.571Z",
+    "last_updated": "2026-08-24T14:25:47.032Z",
     "original_repository": "Azure-Samples/awesome-azure-sql",
     "original_repository_id": 309174600,
     "original_repository_sha": "0241515c529ae694e066dd03321bd92593faa4e6",
