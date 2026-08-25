@@ -786,7 +786,7 @@
             "archived": false,
             "id": 376924587,
             "language": "Go",
-            "last_commit": "2026-08-17T18:49:46Z",
+            "last_commit": "2026-08-25T04:17:07Z",
             "owner": "microsoft",
             "repo": "go-sqlcmd",
             "stars": 579
@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-20T14:20:52Z",
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18370
+                "stars": 18371
               }
             }
           ],
@@ -898,7 +898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:28.024Z",
+    "last_updated": "2026-08-25T06:26:54.708Z",
     "original_repository": "Azure-Samples/awesome-azure-sql",
     "original_repository_id": 309174600,
     "original_repository_sha": "0241515c529ae694e066dd03321bd92593faa4e6",
