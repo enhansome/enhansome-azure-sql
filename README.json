@@ -864,7 +864,7 @@
                 "last_commit": "2026-08-20T14:20:52Z",
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18372
+                "stars": 18373
               }
             }
           ],
@@ -898,7 +898,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:08:43.896Z",
+    "last_updated": "2026-08-26T14:08:17.199Z",
     "original_repository": "Azure-Samples/awesome-azure-sql",
     "original_repository_id": 309174600,
     "original_repository_sha": "0241515c529ae694e066dd03321bd92593faa4e6",
