@@ -16,7 +16,8 @@
             "owner": "David-Seis",
             "repo": "SecureYourAzureData",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "AzureSQLDB",
             "repo": "azure-sql-db-developers-workshop",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         }
       ],
       "title": "Labs & Workshops"
@@ -52,7 +54,8 @@
             "owner": "Azure-Samples",
             "repo": "azure-sql-db-samples",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "Azure-Samples",
             "repo": "todo-csharp-sql",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         }
       ],
       "title": "Best Practices"
@@ -88,7 +92,8 @@
             "owner": "Azure-Samples",
             "repo": "azure-sql-db-session-recommender",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         }
       ],
       "title": "AI"
@@ -109,7 +114,8 @@
             "owner": "Azure-Samples",
             "repo": "azure-sql-db-session-recommender",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         }
       ],
       "title": "Vectors"
@@ -132,7 +138,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-samples",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -147,7 +154,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-hyperscale-autoscaler",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -162,7 +170,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-named-replica-oltp-scaleout",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -184,7 +193,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-session-recommender",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -206,7 +216,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-change-stream-debezium",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -228,7 +239,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-import-data",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -250,7 +262,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-ci-cd",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -272,7 +285,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dynamic-schema",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -287,7 +301,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dynamic-schema-ef",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -309,7 +324,8 @@
                 "owner": "Azure-Samples",
                 "repo": "serverless-full-stack-apps-azure-sql",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -324,7 +340,8 @@
                 "owner": "Azure-Samples",
                 "repo": "todo-csharp-sql",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -339,7 +356,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-prisma",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -354,7 +372,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-fullstack-serverless-kickstart",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -369,7 +388,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-todo-mvc",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -384,7 +404,8 @@
                 "owner": "AzureSQLDB",
                 "repo": "azure-sql-db-developers-workshop",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -399,7 +420,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-rest-graphql-directus",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -421,7 +443,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-prisma",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -436,7 +459,8 @@
                 "owner": "AzureSQLDB",
                 "repo": "azure-sql-db-developers-workshop",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -451,7 +475,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-graphql",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -466,7 +491,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-rest-graphql-directus",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -488,7 +514,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-fullstack-serverless-kickstart",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -510,7 +537,8 @@
                 "owner": "Azure-Samples",
                 "repo": "serverless-full-stack-apps-azure-sql",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -525,7 +553,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-python-rest-api",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -540,7 +569,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-prisma",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -555,7 +585,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dotnet-rest-api",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -570,7 +601,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-django",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -585,7 +617,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-node-rest-api",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -600,7 +633,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-todo-mvc",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -615,7 +649,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-todo-backend-func-node",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -630,7 +665,8 @@
                 "owner": "AzureSQLDB",
                 "repo": "azure-sql-db-developers-workshop",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -645,7 +681,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-named-replica-oltp-scaleout",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -660,7 +697,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-todo-backend-dotnet",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -675,7 +713,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-rest-graphql-directus",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -690,7 +729,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dynamic-schema",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -705,7 +745,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-secure-data-access-api",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             },
             {
               "node_type": "item",
@@ -720,7 +761,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dynamic-schema-ef",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -742,7 +784,8 @@
                 "owner": "arvindsh",
                 "repo": "SQLScriptDomSamples",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -764,7 +807,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-session-recommender",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -786,11 +830,12 @@
             "archived": false,
             "id": 376924587,
             "language": "Go",
-            "last_commit": "2026-08-27T04:16:53Z",
+            "last_commit": "2026-08-28T17:22:32Z",
             "owner": "microsoft",
             "repo": "go-sqlcmd",
-            "stars": 580
-          }
+            "stars": 581
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         },
         {
           "node_type": "item",
@@ -805,7 +850,8 @@
             "owner": "Azure-Samples",
             "repo": "smartbulkcopy",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         },
         {
           "node_type": "item",
@@ -820,7 +866,8 @@
             "owner": "denzilribeiro",
             "repo": "sqldbmonitoring",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         },
         {
           "children": [
@@ -837,7 +884,8 @@
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
                 "stars": 979
-              }
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -864,8 +912,9 @@
                 "last_commit": "2026-08-20T14:20:52Z",
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18374
-              }
+                "stars": 18375
+              },
+              "first_seen": "2026-08-28T23:04:49.267Z"
             }
           ],
           "description": null,
@@ -891,14 +940,15 @@
             "owner": "David-Seis",
             "repo": "SecureYourAzureData",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:04:49.267Z"
         }
       ],
       "title": "Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:59:05.942Z",
+    "last_updated": "2026-08-28T23:04:49.267Z",
     "original_repository_info": {
       "archived": false,
       "id": 309174600,
