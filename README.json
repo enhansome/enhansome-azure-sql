@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 486267692,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-12-20T20:33:41Z",
+            "open_issues": 1,
             "owner": "David-Seis",
             "repo": "SecureYourAzureData",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A workshop for developing with the Azure SQL Database and Azure Services",
+            "homepage": null,
             "id": 659887357,
             "language": "TSQL",
+            "license": "MIT",
             "last_commit": "2026-06-30T02:32:57Z",
+            "open_issues": 3,
             "owner": "AzureSQLDB",
             "repo": "azure-sql-db-developers-workshop",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "To gain access, please finish setting up this repository now at: ",
+            "homepage": "https://repos.opensource.microsoft.com/Azure-Samples/wizard?existingreponame=azure-sql-db-samples&existingrepoid=206863373",
             "id": 206863373,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-07-30T21:08:37Z",
+            "open_issues": 1,
             "owner": "Azure-Samples",
             "repo": "azure-sql-db-samples",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         },
@@ -64,12 +79,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blueprint for getting a React web app with a C# API and a SQL database on Azure. The blueprint includes sample application code (a ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly.",
+            "homepage": null,
             "id": 452043569,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-11T00:23:49Z",
+            "open_issues": 5,
             "owner": "Azure-Samples",
             "repo": "todo-csharp-sql",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "azd-templates",
+              "azure"
+            ]
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         }
@@ -86,12 +109,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build a recommender using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings",
+            "homepage": "https://aka.ms/dotnetconf2023-session-finder",
             "id": 694432089,
             "language": "Bicep",
+            "license": "MIT",
             "last_commit": "2024-03-18T01:12:31Z",
+            "open_issues": 2,
             "owner": "Azure-Samples",
             "repo": "azure-sql-db-session-recommender",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "azure-functions",
+              "azure-sql-db",
+              "azure-static-web-apps",
+              "data-api-builder",
+              "embeddings",
+              "event-driven",
+              "fullstack",
+              "jamstack",
+              "open-ai",
+              "vectors"
+            ]
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         }
@@ -108,12 +147,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build a recommender using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings",
+            "homepage": "https://aka.ms/dotnetconf2023-session-finder",
             "id": 694432089,
             "language": "Bicep",
+            "license": "MIT",
             "last_commit": "2024-03-18T01:12:31Z",
+            "open_issues": 2,
             "owner": "Azure-Samples",
             "repo": "azure-sql-db-session-recommender",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "azure-functions",
+              "azure-sql-db",
+              "azure-static-web-apps",
+              "data-api-builder",
+              "embeddings",
+              "event-driven",
+              "fullstack",
+              "jamstack",
+              "open-ai",
+              "vectors"
+            ]
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         }
@@ -132,12 +187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "To gain access, please finish setting up this repository now at: ",
+                "homepage": "https://repos.opensource.microsoft.com/Azure-Samples/wizard?existingreponame=azure-sql-db-samples&existingrepoid=206863373",
                 "id": 206863373,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-30T21:08:37Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-samples",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -148,12 +208,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autoscaling Azure SQL Database Hyperscale with Azure Functions",
+                "homepage": null,
                 "id": 234637572,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-10-23T18:36:54Z",
+                "open_issues": 4,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-hyperscale-autoscaler",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "autoscale",
+                  "autoscaler",
+                  "azure-functions",
+                  "azure-sql",
+                  "azure-sql-database",
+                  "hyperscale"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -164,12 +236,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "OLTP scaleout sample with Azure SQL Hyperscale Named Replicas",
+                "homepage": null,
                 "id": 348844498,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-10-23T18:39:50Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-named-replica-oltp-scaleout",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -187,12 +264,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Build a recommender using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings",
+                "homepage": "https://aka.ms/dotnetconf2023-session-finder",
                 "id": 694432089,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2024-03-18T01:12:31Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-session-recommender",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "azure-functions",
+                  "azure-sql-db",
+                  "azure-static-web-apps",
+                  "data-api-builder",
+                  "embeddings",
+                  "event-driven",
+                  "fullstack",
+                  "jamstack",
+                  "open-ai",
+                  "vectors"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -210,12 +303,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SQL Server Change Stream sample using Debezium",
+                "homepage": null,
                 "id": 200424302,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-07-22T12:58:11Z",
+                "open_issues": 3,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-change-stream-debezium",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "azure-functions",
+                  "azure-sql",
+                  "cdc",
+                  "change-data-capture",
+                  "change-feed",
+                  "change-streams",
+                  "debezium",
+                  "event-hubs",
+                  "kafka",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -233,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples on how to import data (Flat Files, CSV, JSON) in Azure SQL",
+                "homepage": null,
                 "id": 326835117,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2022-10-06T05:07:47Z",
+                "open_issues": 0,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-import-data",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -256,12 +370,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure SQL DB CI/CD Sample Solution",
+                "homepage": null,
                 "id": 304139373,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2025-03-11T23:20:31Z",
+                "open_issues": 0,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-ci-cd",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "azuresql",
+                  "ci-cd",
+                  "devops",
+                  "sql-server"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -279,12 +403,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL",
+                "homepage": null,
                 "id": 328291824,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-07-29T22:00:15Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dynamic-schema",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -295,12 +424,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL using EF Core",
+                "homepage": null,
                 "id": 765327245,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-08-25T21:14:51Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dynamic-schema-ef",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -318,12 +452,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full stack solution using Javascript, Azure Static Web Apps, Azure Function, Azure SQL Database and a microservice architecture to monitor in real-time public transportation data, create a geofence and send notification when geofence is activated",
+                "homepage": null,
                 "id": 348492169,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-02-23T01:54:06Z",
+                "open_issues": 12,
                 "owner": "Azure-Samples",
                 "repo": "serverless-full-stack-apps-azure-sql",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "azure",
+                  "azure-functions",
+                  "azure-sql",
+                  "azure-sql-db",
+                  "geospatial",
+                  "json",
+                  "real-time",
+                  "serverless",
+                  "static-web-apps"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -334,12 +483,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A blueprint for getting a React web app with a C# API and a SQL database on Azure. The blueprint includes sample application code (a ToDo web app) which can be removed and replaced with your own application code. Add your own source code and leverage the Infrastructure as Code assets (written in Bicep) to get up and running quickly.",
+                "homepage": null,
                 "id": 452043569,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-05-11T00:23:49Z",
+                "open_issues": 5,
                 "owner": "Azure-Samples",
                 "repo": "todo-csharp-sql",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "azd-templates",
+                  "azure"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -350,12 +507,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Full-Stack End-To-End implementation - both with REST and GraphQL support - with Azure SQL and Prisma.io of the well-known To-do list sample.",
+                "homepage": null,
                 "id": 393453553,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-10-16T16:11:13Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-prisma",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "azure",
+                  "azure-functions",
+                  "azure-sql",
+                  "nodejs",
+                  "serverless",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -366,12 +535,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL. ",
+                "homepage": null,
                 "id": 436419161,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-16T21:04:45Z",
+                "open_issues": 4,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-fullstack-serverless-kickstart",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "azure-functions",
+                  "azure-sql",
+                  "azure-static-web-apps",
+                  "fullstack",
+                  "jamstack"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -382,12 +562,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Full-Stack implementation of the famous ToDoMVC: Vue.js, .NET Core REST API, Azure SQL",
+                "homepage": null,
                 "id": 284796647,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-10-26T15:15:52Z",
+                "open_issues": 9,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-todo-mvc",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -398,12 +583,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A workshop for developing with the Azure SQL Database and Azure Services",
+                "homepage": null,
                 "id": 659887357,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2026-06-30T02:32:57Z",
+                "open_issues": 3,
                 "owner": "AzureSQLDB",
                 "repo": "azure-sql-db-developers-workshop",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -414,12 +604,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A full end-to-end demo using Vue, Directus, REST, GraphQL and Azure SQL database to create a modern Todo list solution",
+                "homepage": null,
                 "id": 386316429,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-10-26T15:15:43Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-rest-graphql-directus",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -437,12 +632,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Full-Stack End-To-End implementation - both with REST and GraphQL support - with Azure SQL and Prisma.io of the well-known To-do list sample.",
+                "homepage": null,
                 "id": 393453553,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-10-16T16:11:13Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-prisma",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "azure",
+                  "azure-functions",
+                  "azure-sql",
+                  "nodejs",
+                  "serverless",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -453,12 +660,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A workshop for developing with the Azure SQL Database and Azure Services",
+                "homepage": null,
                 "id": 659887357,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2026-06-30T02:32:57Z",
+                "open_issues": 3,
                 "owner": "AzureSQLDB",
                 "repo": "azure-sql-db-developers-workshop",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -469,12 +681,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "GraphQL samples connecting to Azure SQL Database using several programming languages and frameworks.",
+                "homepage": null,
                 "id": 311738477,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-10-23T18:40:00Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-graphql",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -485,12 +702,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A full end-to-end demo using Vue, Directus, REST, GraphQL and Azure SQL database to create a modern Todo list solution",
+                "homepage": null,
                 "id": 386316429,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-10-26T15:15:43Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-rest-graphql-directus",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -508,12 +730,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fullstack/Jamstack solution with Vue.js, Azure Functions, Azure Static Web apps and Azure SQL. ",
+                "homepage": null,
                 "id": 436419161,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-01-16T21:04:45Z",
+                "open_issues": 4,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-fullstack-serverless-kickstart",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "azure-functions",
+                  "azure-sql",
+                  "azure-static-web-apps",
+                  "fullstack",
+                  "jamstack"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -531,12 +764,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full stack solution using Javascript, Azure Static Web Apps, Azure Function, Azure SQL Database and a microservice architecture to monitor in real-time public transportation data, create a geofence and send notification when geofence is activated",
+                "homepage": null,
                 "id": 348492169,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-02-23T01:54:06Z",
+                "open_issues": 12,
                 "owner": "Azure-Samples",
                 "repo": "serverless-full-stack-apps-azure-sql",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "azure",
+                  "azure-functions",
+                  "azure-sql",
+                  "azure-sql-db",
+                  "geospatial",
+                  "json",
+                  "real-time",
+                  "serverless",
+                  "static-web-apps"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -547,12 +795,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "REST API using Python, Flask and Azure SQL ",
+                "homepage": null,
                 "id": 226973467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-09-12T23:22:14Z",
+                "open_issues": 5,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-python-rest-api",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "azure",
+                  "azure-sql",
+                  "azure-sql-database",
+                  "azure-sql-server",
+                  "flask",
+                  "json",
+                  "python",
+                  "rest-api",
+                  "restful-api",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -563,12 +827,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Full-Stack End-To-End implementation - both with REST and GraphQL support - with Azure SQL and Prisma.io of the well-known To-do list sample.",
+                "homepage": null,
                 "id": 393453553,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-10-16T16:11:13Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-prisma",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "azure",
+                  "azure-functions",
+                  "azure-sql",
+                  "nodejs",
+                  "serverless",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -579,12 +855,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST API using .Net, Dapper and Azure SQL ",
+                "homepage": null,
                 "id": 228347469,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-04T15:52:22Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dotnet-rest-api",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "azure",
+                  "azure-sql-database",
+                  "azure-sql-server",
+                  "dapper",
+                  "json",
+                  "net-core",
+                  "rest-api",
+                  "restful-api"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -595,12 +885,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST API using Python, Django, Azure SQL DB & mssql-django driver",
+                "homepage": null,
                 "id": 450480630,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-06T19:07:53Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-django",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "azure-sql",
+                  "django",
+                  "django-rest-framework",
+                  "mssql-django",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -611,12 +912,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "REST API using Node, Azure Functions and Azure SQL",
+                "homepage": null,
                 "id": 285681704,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2024-08-06T19:49:56Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-node-rest-api",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -627,12 +933,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Full-Stack implementation of the famous ToDoMVC: Vue.js, .NET Core REST API, Azure SQL",
+                "homepage": null,
                 "id": 284796647,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-10-26T15:15:52Z",
+                "open_issues": 9,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-todo-mvc",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -643,12 +954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Todo Backend with Azure Functions, Node and Azure SQL",
+                "homepage": null,
                 "id": 295611923,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-08-06T19:51:42Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-todo-backend-func-node",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -659,12 +975,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A workshop for developing with the Azure SQL Database and Azure Services",
+                "homepage": null,
                 "id": 659887357,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2026-06-30T02:32:57Z",
+                "open_issues": 3,
                 "owner": "AzureSQLDB",
                 "repo": "azure-sql-db-developers-workshop",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -675,12 +996,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "OLTP scaleout sample with Azure SQL Hyperscale Named Replicas",
+                "homepage": null,
                 "id": 348844498,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-10-23T18:39:50Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-named-replica-oltp-scaleout",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -691,12 +1017,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the Todo Backend API using ASP.NET Core, JSON, Dapper and Azure SQL",
+                "homepage": null,
                 "id": 306166752,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-06-13T17:04:16Z",
+                "open_issues": 0,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-todo-backend-dotnet",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -707,12 +1038,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A full end-to-end demo using Vue, Directus, REST, GraphQL and Azure SQL database to create a modern Todo list solution",
+                "homepage": null,
                 "id": 386316429,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2023-10-26T15:15:43Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-rest-graphql-directus",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -723,12 +1059,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL",
+                "homepage": null,
                 "id": 328291824,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-07-29T22:00:15Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dynamic-schema",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -739,12 +1080,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Creating API that can guarantee secured and controlled data access to your data",
+                "homepage": null,
                 "id": 249258971,
                 "language": "TSQL",
+                "license": "MIT",
                 "last_commit": "2023-09-12T23:26:02Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-secure-data-access-api",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             },
@@ -755,12 +1101,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Samples on how efficiently to handle dynamic schemas in Azure SQL using EF Core",
+                "homepage": null,
                 "id": 765327245,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-08-25T21:14:51Z",
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-dynamic-schema-ef",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -778,12 +1129,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples showing how to use Microsoft.SqlServer.TransactSql.ScriptDom classes",
+                "homepage": null,
                 "id": 79528586,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-04-29T15:21:40Z",
+                "open_issues": 2,
                 "owner": "arvindsh",
                 "repo": "SQLScriptDomSamples",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "antlr",
+                  "azuresql",
+                  "code-formatter",
+                  "csharp",
+                  "dotnet",
+                  "hacktoberfest",
+                  "parsing",
+                  "scriptdom",
+                  "sql-injection",
+                  "sql-server",
+                  "sqldom",
+                  "t-sql",
+                  "visitor-pattern"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -801,12 +1171,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Build a recommender using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings",
+                "homepage": "https://aka.ms/dotnetconf2023-session-finder",
                 "id": 694432089,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2024-03-18T01:12:31Z",
+                "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-session-recommender",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "azure-functions",
+                  "azure-sql-db",
+                  "azure-static-web-apps",
+                  "data-api-builder",
+                  "embeddings",
+                  "event-driven",
+                  "fullstack",
+                  "jamstack",
+                  "open-ai",
+                  "vectors"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -828,12 +1214,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The new sqlcmd, CLI for SQL Server and Azure SQL (winget install sqlcmd / sqlcmd create mssql / sqlcmd open ads)",
+            "homepage": "https://learn.microsoft.com/sql/tools/sqlcmd/go-sqlcmd-utility",
             "id": 376924587,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:22:32Z",
+            "open_issues": 153,
             "owner": "microsoft",
             "repo": "go-sqlcmd",
-            "stars": 581
+            "stars": 581,
+            "topics": [
+              "azure-sql",
+              "mssql",
+              "sql-server",
+              "sqlcmd"
+            ]
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         },
@@ -844,12 +1240,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "High-Speed Bulk Copy tool to move data from one Azure SQL / SQL Server database to another. Smartly uses logical or physical partitions to maximize speed.",
+            "homepage": null,
             "id": 201573760,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-01-16T19:38:17Z",
+            "open_issues": 13,
             "owner": "Azure-Samples",
             "repo": "smartbulkcopy",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "azure-sql-database",
+              "azure-sql-server",
+              "bulk-copy",
+              "sql-server"
+            ]
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         },
@@ -860,12 +1266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Azure SQL DB monitoring",
+            "homepage": null,
             "id": 198336465,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-08-01T16:23:38Z",
+            "open_issues": 5,
             "owner": "denzilribeiro",
             "repo": "sqldbmonitoring",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         },
@@ -878,12 +1289,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A brand new database synchronization framework, multi platform, multi databases, developed on top of .Net Standard 2.0. https://dotmimsync.readthedocs.io/",
+                "homepage": null,
                 "id": 76020516,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-08-28T13:17:57Z",
+                "open_issues": 64,
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
-                "stars": 979
+                "stars": 979,
+                "topics": [
+                  "change-tracking",
+                  "changetracking",
+                  "database",
+                  "datasync",
+                  "mysql",
+                  "nuget",
+                  "postgresql",
+                  "sql",
+                  "sql-server",
+                  "sqlite",
+                  "sync",
+                  "synchronisation",
+                  "synchronization"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -907,12 +1337,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dapper - a simple object mapper for .Net",
+                "homepage": "https://www.learndapper.com/",
                 "id": 1613345,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T14:20:52Z",
+                "open_issues": 546,
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18375
+                "stars": 18375,
+                "topics": [
+                  "ado-net",
+                  "dapper",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T23:04:49.267Z"
             }
@@ -934,12 +1373,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 486267692,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-12-20T20:33:41Z",
+            "open_issues": 1,
             "owner": "David-Seis",
             "repo": "SecureYourAzureData",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:04:49.267Z"
         }
@@ -948,15 +1392,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:04:49.267Z",
+    "last_updated": "2026-08-29T04:54:11.644Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
+      "homepage": null,
       "id": 309174600,
       "language": "TypeScript",
+      "license": null,
       "last_commit": "2026-08-11T12:53:31Z",
+      "open_issues": 7,
       "owner": "Azure-Samples",
       "repo": "awesome-azure-sql",
-      "stars": 152
+      "stars": 152,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "azure-sql",
+        "azure-sql-database",
+        "azure-sql-db",
+        "developers",
+        "development"
+      ]
     },
     "original_repository_sha": "0241515c529ae694e066dd03321bd92593faa4e6",
     "enhanced_repository": "enhansome/enhansome-azure-sql",
