@@ -1219,11 +1219,11 @@
             "id": 376924587,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-10T17:24:23Z",
+            "last_commit": "2026-09-11T17:23:00Z",
             "open_issues": 156,
             "owner": "microsoft",
             "repo": "go-sqlcmd",
-            "stars": 591,
+            "stars": 592,
             "topics": [
               "azure-sql",
               "mssql",
@@ -1295,7 +1295,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2025-08-28T13:17:57Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
                 "stars": 978,
@@ -1342,7 +1342,7 @@
                 "id": 1613345,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-20T14:20:52Z",
+                "last_commit": "2026-09-12T12:30:19Z",
                 "open_issues": 547,
                 "owner": "DapperLib",
                 "repo": "Dapper",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:03:07.204Z",
+    "last_updated": "2026-09-12T16:22:10.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
