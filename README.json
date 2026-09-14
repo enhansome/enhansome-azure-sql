@@ -118,7 +118,7 @@
             "open_issues": 2,
             "owner": "Azure-Samples",
             "repo": "azure-sql-db-session-recommender",
-            "stars": 51,
+            "stars": 50,
             "topics": [
               "azure-functions",
               "azure-sql-db",
@@ -156,7 +156,7 @@
             "open_issues": 2,
             "owner": "Azure-Samples",
             "repo": "azure-sql-db-session-recommender",
-            "stars": 51,
+            "stars": 50,
             "topics": [
               "azure-functions",
               "azure-sql-db",
@@ -273,7 +273,7 @@
                 "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-session-recommender",
-                "stars": 51,
+                "stars": 50,
                 "topics": [
                   "azure-functions",
                   "azure-sql-db",
@@ -1180,7 +1180,7 @@
                 "open_issues": 2,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-session-recommender",
-                "stars": 51,
+                "stars": 50,
                 "topics": [
                   "azure-functions",
                   "azure-sql-db",
@@ -1249,7 +1249,7 @@
             "open_issues": 13,
             "owner": "Azure-Samples",
             "repo": "smartbulkcopy",
-            "stars": 65,
+            "stars": 64,
             "topics": [
               "azure-sql-database",
               "azure-sql-server",
@@ -1343,10 +1343,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-12T12:30:19Z",
-                "open_issues": 548,
+                "open_issues": 550,
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18384,
+                "stars": 18385,
                 "topics": [
                   "ado-net",
                   "dapper",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T16:58:57.585Z",
+    "last_updated": "2026-09-14T18:41:48.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
