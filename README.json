@@ -348,7 +348,7 @@
                 "language": "TSQL",
                 "license": "MIT",
                 "last_commit": "2022-10-06T05:07:47Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Azure-Samples",
                 "repo": "azure-sql-db-import-data",
                 "stars": 24,
@@ -884,7 +884,7 @@
               "description": "This sample uses the Django web framework and Django REST framework package to easily implement REST APIs. mssql-django backend used to establish database connectivity with Azure SQL DB and Django.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "REST API using Python, Django, Azure SQL DB & mssql-django driver",
                 "homepage": null,
                 "id": 450480630,
@@ -911,7 +911,7 @@
               "description": "Create a serverless REST API using Azure Functions, Node and Azure SQL.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "REST API using Node, Azure Functions and Azure SQL",
                 "homepage": null,
                 "id": 285681704,
@@ -953,7 +953,7 @@
               "description": "Create a REST API using Azure SQL, Azure Functions and Node.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Todo Backend with Azure Functions, Node and Azure SQL",
                 "homepage": null,
                 "id": 295611923,
@@ -1223,7 +1223,7 @@
             "open_issues": 156,
             "owner": "microsoft",
             "repo": "go-sqlcmd",
-            "stars": 592,
+            "stars": 594,
             "topics": [
               "azure-sql",
               "mssql",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:41:48.200Z",
+    "last_updated": "2026-09-15T17:41:39.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
