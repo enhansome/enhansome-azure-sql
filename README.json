@@ -461,7 +461,7 @@
                 "open_issues": 12,
                 "owner": "Azure-Samples",
                 "repo": "serverless-full-stack-apps-azure-sql",
-                "stars": 141,
+                "stars": 140,
                 "topics": [
                   "azure",
                   "azure-functions",
@@ -773,7 +773,7 @@
                 "open_issues": 12,
                 "owner": "Azure-Samples",
                 "repo": "serverless-full-stack-apps-azure-sql",
-                "stars": 141,
+                "stars": 140,
                 "topics": [
                   "azure",
                   "azure-functions",
@@ -1298,7 +1298,7 @@
                 "open_issues": 65,
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
-                "stars": 978,
+                "stars": 980,
                 "topics": [
                   "change-tracking",
                   "changetracking",
@@ -1346,7 +1346,7 @@
                 "open_issues": 551,
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18389,
+                "stars": 18391,
                 "topics": [
                   "ado-net",
                   "dapper",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:06:41.231Z",
+    "last_updated": "2026-09-19T16:33:01.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
