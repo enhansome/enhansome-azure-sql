@@ -1343,10 +1343,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-12T12:30:19Z",
-                "open_issues": 551,
+                "open_issues": 552,
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18391,
+                "stars": 18393,
                 "topics": [
                   "ado-net",
                   "dapper",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T16:33:01.760Z",
+    "last_updated": "2026-09-20T16:52:08.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
