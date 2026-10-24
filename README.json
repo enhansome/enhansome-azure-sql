@@ -1298,7 +1298,7 @@
                 "open_issues": 66,
                 "owner": "Mimetis",
                 "repo": "Dotmim.Sync",
-                "stars": 982,
+                "stars": 983,
                 "topics": [
                   "change-tracking",
                   "changetracking",
@@ -1343,10 +1343,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T04:33:15Z",
-                "open_issues": 558,
+                "open_issues": 577,
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18404,
+                "stars": 18406,
                 "topics": [
                   "ado-net",
                   "dapper",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:53:44.848Z",
+    "last_updated": "2026-10-24T16:41:46.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
