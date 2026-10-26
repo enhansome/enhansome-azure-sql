@@ -1220,7 +1220,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-21T01:12:03Z",
-            "open_issues": 162,
+            "open_issues": 163,
             "owner": "microsoft",
             "repo": "go-sqlcmd",
             "stars": 611,
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:05:41.840Z",
+    "last_updated": "2026-10-26T19:23:44.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
