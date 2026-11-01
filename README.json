@@ -341,7 +341,7 @@
               "description": "Samples on how to import data (JSON, CSV, Flat-Files, etc) into Azure SQL.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Samples on how to import data (Flat Files, CSV, JSON) in Azure SQL",
                 "homepage": null,
                 "id": 326835117,
@@ -1223,7 +1223,7 @@
             "open_issues": 164,
             "owner": "microsoft",
             "repo": "go-sqlcmd",
-            "stars": 614,
+            "stars": 615,
             "topics": [
               "azure-sql",
               "mssql",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:48:43.576Z",
+    "last_updated": "2026-11-01T18:27:08.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
