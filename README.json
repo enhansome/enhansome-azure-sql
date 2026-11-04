@@ -1346,7 +1346,7 @@
                 "open_issues": 577,
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18409,
+                "stars": 18412,
                 "topics": [
                   "ado-net",
                   "dapper",
@@ -1392,7 +1392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:09:08.004Z",
+    "last_updated": "2026-11-04T20:27:14.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list of Azure SQL samples for Developers of any Language and Platform",
